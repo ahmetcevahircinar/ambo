@@ -15,11 +15,9 @@ AMBO algoritması, **21 farklı veri kümesinde** test edilmiş ve BPSO, GA vary
 
 ## 📂 Dosyalar
 
-- `main_AMBO.m`: Ana çalışma dosyası
+- `Main.m`: Ana çalışma dosyası
 - `datasets/`: Makalede kullanılan örnek veri kümeleri
-- `functions/`: Çaprazlama, mutasyon ve yerel arama gibi yardımcı fonksiyonlar
 - `results/`: Sonuç dosyaları ve çıktı logları
-- `figures/`: Makaledeki grafikler ve görseller
 
 ## 🧪 Gereksinimler
 
