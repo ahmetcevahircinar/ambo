@@ -15,11 +15,9 @@ It has been tested on **21 benchmark datasets** and outperformed several state-o
 
 ## 📂 Files
 
-- `main_AMBO.m`: Main script to run the algorithm.
+- `Main.m`: Main script to run the algorithm.
 - `datasets/`: Sample datasets used in the paper.
-- `functions/`: Contains helper functions like crossover, mutation, logic-gate-based local search, etc.
 - `results/`: Contains output logs and performance results.
-- `figures/`: Includes sample convergence and boxplot figures from the paper.
 
 ## 🧪 Requirements
 
